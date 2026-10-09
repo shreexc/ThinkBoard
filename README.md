@@ -1,1 +1,2 @@
 # ThinkBoard
+**ThinkBoard** is a note-taking application built with the MERN stack, designed to help users capture ideas, organize thoughts, and keep track of to-do items in one place. It supports creating, viewing, editing, and deleting notes, making it easy to manage information as it evolves.
